@@ -37,7 +37,11 @@ In this section we introduce context informations for the project.
 * MVC Model
 
 # How to run it:
+
 Step 1: Install Tomcat9 & an IDE (preferably Eclipse)
+
 Step 2: Connect the tomcat9 server to the IDE 
+
 Step 3: Create a db with MySQL Workbench and import the data from the Dumb zip file.
+
 Step 4: Launch the project
