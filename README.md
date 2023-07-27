@@ -1,0 +1,2 @@
+# Mangashop
+Progetto Mangashop
